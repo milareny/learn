@@ -6,4 +6,10 @@ Node and Npm
 5. http://localhost:3000/
 
 Links:
+https://www.w3schools.com/
+https://stackoverflow.com/
+
 npmjs.com
+
+http://htmlbook.ru/
+https://caniuse.com/
