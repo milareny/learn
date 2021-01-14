@@ -1,0 +1,9 @@
+Node and Npm
+1. npm init
+2. set dependencies
+3. npm install
+4. node index.js
+5. http://localhost:3000/
+
+Links:
+npmjs.com
